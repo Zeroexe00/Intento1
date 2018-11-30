@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{4E386AEE-9AF1-4379-8EF1-6A2901D1F2F9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Tried1.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tried1/Tried1/MainPage.xaml">
+    <Files>
+      <File FileName="Tried1/Tried1/MainPage.xaml" Line="33" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tried1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.150F1EA3-E9A0-4E91-A66C-C7AD8F3AEE4E" />
+</Properties>

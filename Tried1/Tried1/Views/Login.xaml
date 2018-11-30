@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Tried1.Login">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Mi turno"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Entry MaxLength="20" Text="Usuario"/>
+            <Entry MaxLength="20" Text="Contraseña"/>
+            <Button Text="Ingresar" Clicked="Ingresar"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
